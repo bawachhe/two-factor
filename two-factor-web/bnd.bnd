@@ -1,0 +1,6 @@
+Bundle-Name: Liferay Two-Factor Authentication Web
+Bundle-SymbolicName: com.liferay.two.factor.auth.web
+Bundle-Version: 1.0.0
+Liferay-Releng-Module-Group-Description:
+Liferay-Releng-Module-Group-Title: Two-Factor
+Web-ContextPath: /two-factor-auth
